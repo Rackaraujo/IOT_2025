@@ -12,7 +12,7 @@
         "height": "4",
         "gtype": "gauge-half",
         "gstyle": "needle",
-        "title": "gauge",
+        "title": "Temperatura",
         "alwaysShowTitle": false,
         "floatingTitlePosition": "top-left",
         "units": "units",
@@ -149,7 +149,7 @@
         }
     },
     {
-        "id": "569d4451de19a789",
+        "id": "5ffc0bd8227cd4b4",
         "type": "global-config",
         "env": [],
         "modules": {
